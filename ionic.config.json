@@ -1,0 +1,7 @@
+{
+  "name": "redir",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
