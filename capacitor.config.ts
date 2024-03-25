@@ -5,7 +5,10 @@ const config: CapacitorConfig = {
   appName: 'redir',
   webDir: 'www',
   server: {
-    androidScheme: 'https'
+    androidScheme: 'https',
+    allowNavigation: [
+      "redirectmeto.com"
+    ]
   }
 };
 
